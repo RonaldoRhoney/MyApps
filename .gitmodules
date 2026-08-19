@@ -1,0 +1,39 @@
+[submodule "Mental"]
+	path = Mental
+	url = git@github.com:RonaldoRhoney/Mental.git
+[submodule "VendeFlex"]
+	path = VendeFlex
+	url = git@github.com:RonaldoRhoney/VendeFlex.git
+[submodule "VoaRadar"]
+	path = VoaRadar
+	url = git@github.com:RonaldoRhoney/VoaRadar.git
+[submodule "Fintra"]
+	path = Fintra
+	url = git@github.com:RonaldoRhoney/FinTra.git
+[submodule "Controle-Financeiro-Pessoal"]
+	path = Controle-Financeiro-Pessoal
+	url = git@github.com:RonaldoRhoney/Controle-Financeiro-Pessoal.git
+[submodule "KnowRa"]
+	path = KnowRa
+	url = git@github.com:RonaldoRhoney/knowra.git
+[submodule "AtePssar"]
+	path = AtePssar
+	url = git@github.com:RonaldoRhoney/AtePsaar.git
+[submodule "Fit-Now"]
+	path = Fit-Now
+	url = git@github.com:RonaldoRhoney/Fit-Now.git
+[submodule "MontaMovel"]
+	path = MontaMovel
+	url = git@github.com:RonaldoRhoney/MontaMovel.git
+[submodule "MenuFlex"]
+	path = MenuFlex
+	url = git@github.com:RonaldoRhoney/MenuFlex.git
+[submodule "VagaLume"]
+	path = VagaLume
+	url = git@github.com:RonaldoRhoney/VagaLume.git
+[submodule "AmaVida"]
+	path = AmaVida
+	url = git@github.com:RonaldoRhoney/AmeVida.git
+[submodule "RhoneyInc"]
+	path = RhoneyInc
+	url = git@github.com:RonaldoRhoney/RhoneyInc.git

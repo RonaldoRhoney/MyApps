@@ -1,0 +1,19 @@
+# Configuração local do Claude Code — pode conter comando com credencial
+# embutida no histórico de permissões aprovadas (já aconteceu: API key da
+# Anthropic e senha de banco em texto puro num settings.json anterior).
+# Nunca versionar, mesmo que o .gitignore global do usuário já cubra isso.
+.claude/settings.local.json
+
+# Projetos ainda sem repositório próprio no GitHub — não fazem parte dos
+# submodules registrados em .gitmodules até terem um destino definido.
+/API-futebol/
+/API_Futebol/
+/FieldPilot/
+/PostEasy/
+
+# MeuPet é publicado no GitHub (github.com/RonaldoRhoney/MeuPet), mas não
+# como um checkout próprio aqui — é rastreado dentro do repositório
+# home-root (/home/rhoney) e publicado via `git subtree split`, não tem
+# .git próprio nesta pasta. Não dá pra virar submodule sem mudar esse
+# mecanismo de publicação. Fica de fora deste índice até isso mudar.
+/MeuPet/
